@@ -1,0 +1,19 @@
+group 'com.rg.PB2Parquet'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.twitter:parquet-format:2.2.0'
+    compile 'com.google.protobuf:protobuf-java:2.6.1'
+    compile 'org.apache.parquet:parquet-protobuf:1.8.1'
+    compile 'org.apache.hadoop:hadoop-core:1.2.1'
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+
+}

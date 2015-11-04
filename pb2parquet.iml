@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="pb2parquet" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="com.rg.pb2parquet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/build/classes/main" />
+    <output-test url="file://$MODULE_DIR$/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/test-artifacts" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.twitter:parquet-format:2.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.protobuf:protobuf-java:2.6.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.parquet:parquet-protobuf:1.8.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.parquet:parquet-common:1.8.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.parquet:parquet-column:1.8.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.parquet:parquet-hadoop:1.8.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.twitter.elephantbird:elephant-bird-core:4.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.parquet:parquet-encoding:1.8.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-codec:commons-codec:1.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.parquet:parquet-format:2.3.0-incubating" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.parquet:parquet-jackson:1.8.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.codehaus.jackson:jackson-mapper-asl:1.9.11" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.codehaus.jackson:jackson-core-asl:1.9.11" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.xerial.snappy:snappy-java:1.1.1.6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.twitter.elephantbird:elephant-bird-hadoop-compat:4.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.slf4j:slf4j-api:1.6.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.guava:guava:11.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.thrift:libthrift:0.7.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.googlecode.json-simple:json-simple:1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.google.code.findbugs:jsr305:1.3.9" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javax.servlet:servlet-api:2.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.httpcomponents:httpclient:4.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.httpcomponents:httpcore:4.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-logging:commons-logging:1.1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-lang:commons-lang:2.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.hadoop:hadoop-core:1.2.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-cli:commons-cli:1.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: xmlenc:xmlenc:0.52" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.sun.jersey:jersey-core:1.8" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.sun.jersey:jersey-json:1.8" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.sun.jersey:jersey-server:1.8" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-io:commons-io:2.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.apache.commons:commons-math:2.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-configuration:commons-configuration:1.6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-net:commons-net:1.4.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.mortbay.jetty:jetty:6.1.26" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.mortbay.jetty:jetty-util:6.1.26" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: tomcat:jasper-runtime:5.5.12" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: tomcat:jasper-compiler:5.5.12" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.mortbay.jetty:jsp-api-2.1:6.1.14" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.mortbay.jetty:jsp-2.1:6.1.14" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-el:commons-el:1.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: net.java.dev.jets3t:jets3t:0.6.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: hsqldb:hsqldb:1.8.0.10" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: oro:oro:2.0.8" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.eclipse.jdt:core:3.1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.codehaus.jettison:jettison:1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.sun.xml.bind:jaxb-impl:2.2.3-1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.codehaus.jackson:jackson-jaxrs:1.7.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.codehaus.jackson:jackson-xc:1.7.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: asm:asm:3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-collections:commons-collections:3.2.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-digester:commons-digester:1.8" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-beanutils:commons-beanutils-core:1.8.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.mortbay.jetty:servlet-api:2.5-20081211" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.mortbay.jetty:servlet-api-2.5:6.1.14" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: ant:ant:1.6.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: stax:stax-api:1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javax.xml.bind:jaxb-api:2.2.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-beanutils:commons-beanutils:1.7.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javax.xml.stream:stax-api:1.0-2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javax.activation:activation:1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-httpclient:commons-httpclient:3.1" level="project" />
+  </component>
+</module>
